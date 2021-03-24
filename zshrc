@@ -7,7 +7,7 @@ echo 'Hello, Javier! I hope you have a wonderful day! :)'
 
 
 # Create Aliases
-alias ls='ls -lAFh'
+alias ls='ls -lAhFoG'
 
 # Customize Prompt(s)
 PROMPT='
