@@ -1,0 +1,20 @@
+tap "homebrew/bundle"
+tap "homebrew/cask"
+tap "homebrew/core"
+tap "mongodb/brew"
+tap "sass/sass"
+brew "bat"
+brew "git", link: false
+brew "go"
+brew "golang-migrate"
+brew "httpie"
+brew "typescript", link: false
+brew "watchman"
+brew "yarn"
+brew "mongodb/brew/mongodb-community"
+brew "sass/sass/sass", link: false
+brew "exa"
+cask "alfred"
+cask "brave-browser"
+cask "visual-studio-code"
+cask "dropbox"
