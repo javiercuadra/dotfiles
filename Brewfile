@@ -29,4 +29,4 @@ mas "AdBlock Pro", id: 1018301773
 mas "DuckDuckGo Privacy Essentials", id: 1482920575
 mas "Grammarly for Safari", id: 1462114288
 mas "Honey", id: 1472777122
-mas "Snappy", id: 512617038
+mas "Skitch", id: 425955336
