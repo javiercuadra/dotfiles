@@ -1,8 +1,6 @@
 echo 'Hello, Javier! I hope you have a wonderful day! :)'
 
 # Set Variables
-# Syntax highlighting for man pages using bat
-export MANPAGER="sh -c 'col -bx | bat -l man -p'"
 export HOMEBREW_CASK_OPTS="--no-quarantine"
 
 # Change ZSH Options
@@ -12,6 +10,7 @@ export HOMEBREW_CASK_OPTS="--no-quarantine"
 # ls='ls -lah'
 alias ls='exa -lFah --git'
 alias exa='exa -lFah --git'
+alias man='batman'
 
 # Customize Prompt(s)
 PROMPT='
