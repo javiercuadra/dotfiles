@@ -9,7 +9,9 @@ export HOMEBREW_CASK_OPTS="--no-quarantine"
 
 
 # Create Aliases
-alias ls='ls -lAhFoG'
+# ls='ls -lah'
+alias ls='exa -lFah --git'
+alias exa='exa -lFah --git'
 
 # Customize Prompt(s)
 PROMPT='
