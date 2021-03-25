@@ -1,4 +1,4 @@
-echo 'Hello, Javier! I hope you have a wonderful day! :)'
+echo 'I hope you have a wonderful day! :)'
 
 # Set Variables
 export HOMEBREW_CASK_OPTS="--no-quarantine"
