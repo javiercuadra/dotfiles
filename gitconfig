@@ -5,3 +5,5 @@
 	ui = auto
 [credential]
 	helper = osxkeychai
+[core]
+	editor = code --wait
